@@ -1,0 +1,18 @@
+package: community.lazycat.app.composecraft
+name: Compose Craft
+version: 1.1.3
+description: "Graphical docker-compose editor: drag services, link dependencies, export YAML."
+min_os_version: "1.5.0"
+homepage: https://composecraft.com/
+author: composecraft
+license: MIT
+permissions:
+  required:
+    - net.internet
+locales:
+  zh:
+    name: Compose Craft
+    description: "图形化编辑 docker-compose.yml：拖拽服务、连线依赖，导出可直接使用的 YAML。"
+  en:
+    name: Compose Craft
+    description: "Graphical docker-compose editor: drag services, link dependencies, export YAML."
